@@ -3,10 +3,10 @@ An esp32 WiFi UDP stream Microphone and a python backend for spying a room strai
 
 ## Hardware
 
-Adafruit HUZZAH32 – ESP32 Feather Board
-Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H
+#### Adafruit HUZZAH32 – ESP32 Feather Board
+#### Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H
 
-                      Connections
+##### Connections:
 
 |  Esp32 HUZZAH Silkscreen	| SPH0645LM4H  Breakout 	    |
 |---	                      |---	                        |
